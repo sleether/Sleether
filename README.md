@@ -1,5 +1,15 @@
 ### Olá, Eu sou Bruno Lucas !!
 
+Apaixonado por tecnologia desde a infância, descobri a programação em 2014 e imediatamente identifiquei meu caminho na jornada da Inteligência Artificial. O fascínio pelo aprendizado das máquinas sempre me impulsionou, mesmo acompanhado por alguns medos, mas a busca constante por conhecimento alimenta minha vontade de criar soluções inovadoras para as gerações futuras. Atualmente, desempenho o papel de Analista de Suporte de TI na NTT Data, enquanto mergulho nos estudos de desenvolvimento Back End e estrutura de dados. Estou comprometido em expandir minhas habilidades e contribuir para o avanço da tecnologia, sempre em busca de novos desafios e oportunidades emocionantes
+:computer: :coffee:
+
+
+## Habilidades
+
+[![GitHub](https://img.shields.io/badge/GitHub-ec63a1?style=for-the-badge&logo=github&logoColor=fff)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-ec63a1?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/doc) 
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 <div>
