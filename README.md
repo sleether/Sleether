@@ -1,7 +1,15 @@
 ### Olá, Eu sou Bruno Lucas !!
 
-Apaixonado por tecnologia desde a infância, descobri a programação em 2014 e imediatamente identifiquei meu caminho na jornada da Inteligência Artificial. O fascínio pelo aprendizado das máquinas sempre me impulsionou, mesmo acompanhado por alguns medos, mas a busca constante por conhecimento alimenta minha vontade de criar soluções inovadoras para as gerações futuras. Atualmente, desempenho o papel de Analista de Suporte de TI na NTT Data, enquanto mergulho nos estudos de desenvolvimento Back End e estrutura de dados. Estou comprometido em expandir minhas habilidades e contribuir para o avanço da tecnologia, sempre em busca de novos desafios e oportunidades emocionantes
-:computer: :coffee:
+Apaixonado por tecnologia desde a infância, descobri a programação em 2014 e
+imediatamente identifiquei meu caminho na jornada da Inteligência Artificial. O
+fascínio pelo aprendizado das máquinas sempre me impulsionou, e a busca
+constante por conhecimento alimenta minha vontade de criar soluções inovadoras
+para as gerações futuras. Atualmente, desempenho o papel de Analista de Suporte
+de TI na NTT Data, enquanto mergulho nos estudos de desenvolvimento Back End
+e estrutura de dados. Estou comprometido em expandir minhas habilidades e
+contribuir para o avanço da tecnologia, sempre em busca de novos desafios e
+oportunidades emocionantes :computer: :coffee:
+
 
 
 ## Habilidades
@@ -34,7 +42,7 @@ Apaixonado por tecnologia desde a infância, descobri a programação em 2014 e 
  
 <div> 
    <a href="https://instagram.com/lumizui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.twitch.tv/lucassleether" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+  <a href="https://www.twitch.tv/lumizui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href = "mailto:bruno_lucas_97@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/sleether/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
